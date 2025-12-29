@@ -12,6 +12,9 @@
 
 ## 💫 About Me
 
+<details>
+<summary>👨‍💻 Click to view my tech profile</summary>
+
 ```python
 class Developer:
     def __init__(self):
@@ -47,6 +50,8 @@ class Developer:
 me = Developer()
 print(me.get_skills())
 ```
+
+</details>
 
 ---
 
